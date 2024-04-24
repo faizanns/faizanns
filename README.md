@@ -26,6 +26,7 @@ I am currently a bachelor's student at Technische Hochschule Ingolstadt(THI) stu
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jquery&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
+![LaTeX](https://img.shields.io/badge/LaTeX-47A141?style=flat&logo=LaTeX&logoColor=white)
 
 ---
 
@@ -36,7 +37,7 @@ I am currently a bachelor's student at Technische Hochschule Ingolstadt(THI) stu
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?&style=flat&logo=Jupyter&logoColor=white)
 ![WordPress](https://img.shields.io/badge/Wordpress-21759B?style=flat&logo=wordpress&logoColor=white)
 ![Xampp](https://img.shields.io/badge/Xampp-F37623?style=flat&logo=xampp&logoColor=white)
-
+![Apache](https://img.shields.io/badge/Apache-D22128?style=flat&logo=Apache&logoColor=white)
 
 ---
 
