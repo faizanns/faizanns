@@ -35,6 +35,8 @@ I am currently a bachelor's student at Technische Hochschule Ingolstadt(THI) stu
 ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=flat&logo=eclipse&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?&style=flat&logo=Jupyter&logoColor=white)
 ![WordPress](https://img.shields.io/badge/Wordpress-21759B?style=flat&logo=wordpress&logoColor=white)
+![Xampp](https://img.shields.io/badge/Xampp-F37623?style=flat&logo=xampp&logoColor=white)
+
 
 ---
 
