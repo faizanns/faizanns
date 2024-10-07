@@ -9,11 +9,11 @@ I am currently a bachelor's student at Technische Hochschule Ingolstadt(THI) stu
 ---
 
 #### :books: I'm Currently Learning:
-- Intro to Computer Science 2
-- Algorithms for AI (Python)
-- Programming 2 (Java)
-- Mathematics 2
-- Scientific Research Methods
+- Optimization Algorithms
+- Algorithms for AI 2
+- Software Engineering
+- Web Technologies
+- Data Visualization and Data Analytics
 
 ---
 
